@@ -4,24 +4,24 @@ project:
 
 
 website:
-  title: "NES2405 Professional Skills: Data Analysis Handbook"
-  site-url: https://rasanderson.github.io/NES2405-ModuleHandbook/
+  title: "NES2504 Professional Skills: Data Analysis Handbook"
+  site-url: https://rasanderson.github.io/NES2504-ModuleHandbook/
 
 
 book:
-  title: "NES2303 Module Handbook"
+  title: "NES2504 Data Analysis Handbook"
   reader-mode: true
   
   page-footer:
     left: |
-      NES2303 Experimental design and statistics. 2025-26 Edition. Roy Sanderson.
+      NES2504 Data Analysis Handbook. 2025-26 Edition. Roy Sanderson, Will Reid.
     right: |
-      This module handbook was built with <a href="https://quarto.org/">Quarto</a>.
+      This handbook was built with <a href="https://quarto.org/">Quarto</a>.
 
   cover-image: cover.png
   favicon: cover.png
   site-url: https://ncl.instructure.com/courses/72463
-  repo-url: https://github.com/rasanderson/NES2405-ModuleHandbook
+  repo-url: https://github.com/rasanderson/NES2504-ModuleHandbook
   repo-branch: main
   repo-actions: [edit, issue]
 

@@ -1,6 +1,6 @@
 # The last part of any quantitative modelling
 
-Depending on your preferences, this is either the easiest part, or the most difficult! Analysing and interpretating your data is not the whole story: you have to write it up as a report. Personally, I often find this the most difficult step, as I easily get writer's block, especially if I start up Microsoft Word, type in the word **Introduction** and look at a blank, white screen. Most reports you will write on this and other courses, especially Stage 3, and for your Stage 3 project, will probably follow the format of
+Depending on your preferences, this is either the easiest part, or the most difficult! Analysing and interpretating your data is not the whole story: you have to write it up as a report. Most of us find this the most difficult step, and easily get writer's block, especially with Microsoft Word: type in the word **Introduction** and look at a blank, white screen. Most reports you will write on this and other courses, especially Stage 3, and for your Stage 3 project, will probably follow the format of
 
 -   Abstract
 -   Introduction
@@ -9,7 +9,7 @@ Depending on your preferences, this is either the easiest part, or the most diff
 -   Discussion
 -   References
 
-That might be how it is written, but the order I often find myself writing scientific papers is along the lines of:
+That might be how it is written, but the order many scientists draft the final version might be easier in the order of:
 
 1.  Methods (I know what I did, so this is easy to write. Phew! One section written...)
 
@@ -27,5 +27,5 @@ Many scientists use the "hourglass" model as a way of thinking about how to stru
 
 ![](images/hourglass.png)
 
-I also particularly recommend you look at [this post](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/) which describes the **5 key paragraphs of any scientific paper**. It is written by an ecologist, but is actually applicable to any discipline. The same site also provides [some useful tricks for clear writing](https://dynamicecology.wordpress.com/2012/11/14/clear-writing/). 
+We also particularly recommend you look at [this post](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/) which describes the **5 key paragraphs of any scientific paper**. It is written by an ecologist, but is actually applicable to any discipline. The same site also provides [some useful tricks for clear writing](https://dynamicecology.wordpress.com/2012/11/14/clear-writing/). 
  

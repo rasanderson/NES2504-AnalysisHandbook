@@ -2,9 +2,9 @@
 
 Many of the skills you learn in NES2303 will be essential for your Stage 3 research or literature review projects. This is not just your computer and analytical skills, but also *critical thinking* and *problem solving*. Indeed, a not uncommon conversation between academic staff and students when scoping their projects is along the lines of:
 
-> **Student**: I'd like to do a project on badgers / DNA / bacteria / phylogeny (*delete as applicable*)
+> **Student**: I'd like to do a project on badgers / DNA / dolphins / bacteria / phylogeny (*delete as applicable*)
 
-> **Staff**: What exactly do you want to find out about badgers / DNA / bacteria / phylogeny?
+> **Staff**: What exactly do you want to find out about badgers / DNA / dolphins / bacteria / phylogeny?
 
 > **Student**: I'm really interested in them!
 
@@ -16,6 +16,7 @@ When Stage 3 students approach me wanting to do a research project under my supe
 
 -   Are the numbers of butterflies higher in roadside verges where the vegetation is cut monthly compared to once per year?
 -   Do bumblebees occur more frequently near fields of mass-flowering crops such as oilseed rape?
+-   What is the evidence for microplastic pollution in marine invertebrates near onshore industry?
 -   Is the frequency of small mammals detected in camera traps associated with supplementary feed for game birds?
 
 It is only when the students' initial statements are re-phrased into questions that we can start to sketch out possible routes by which you can develop formal scientific hypotheses to test with your statistical model, develop a sampling strategy, do the experiment / survey etc. Another common mistake is to **confuse aims and objectives**. The three bullet points above are still quite general, and might be considered as overall aims. Objectives are much more specific, and might encompass pilot studies to test methodology, or detailed studies of other variables. For example, in the butterfly study, two obvious objectives might be to see if the numbers of species of plants or the numbers of flowers $m^2$differed according to cutting regime.

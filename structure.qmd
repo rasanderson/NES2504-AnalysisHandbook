@@ -1,21 +1,21 @@
 # Data Analysis course structure
 
-There will be a couple of introductory lectures from Roy Sanderson at the start of the course, but the focus will be on practical sessions. If for health or other reasons you are not able to attend the computer classes on Campus, then you should still be able to complete the course without problems. **We will use Microsoft Teams** to answer questions, as students can **help each other** more easily, and staff or demonstrators can **respond more quickly**.
+There will be an introductory lecture at the start of the Data Analysis course, but the focus will be on practical sessions. If for health or other reasons you are not able to attend the computer classes on Campus, then you should still be able to complete the course without problems. If you miss a computer class it is **ESSENTIAL** that you complete the one you missed before moving to the next one, otherwise you will be baffled and lost.
 
 The following diagram summarises the overall course structure
 
-![](images/NES2303_overview.png)
+![](images/Course_Outline.png)
 
 -   Blue - broad topics shown on the left
--   Green - 6 major sections for the NES2303 course (see below)
+-   Green - 5 major sections for the Data Analysis course (see below)
 -   Orange - Computer practical sessions; these map onto the 6 topics
 -   Red - Formative and Summative assessments
 
-Teaching staff and many demonstrators will be from the Modelling Evidence and Policy Research Group (MEP) <https://www.ncl.ac.uk/nes/our-research/biology/modelling-evidence-policy/> within SNES. The group includes Biologists and Zoologists working in many different fields, from microbiology through to field zoology, but all these areas require solid data analysis and interpretation. The formative and summative tests will be hosted on the Canvas Virtual Learning Environment, but will require you to analyse and interpret data separately. The tests will take the form of short-answer / multiple choice / numeric answers.
+Teaching staff and many demonstrators will be from the Modelling Evidence and Policy Research Group (MEP) <https://www.ncl.ac.uk/nes/our-research/biology/modelling-evidence-policy/> within SNES. The group includes Biologists, Marine Scientists and Zoologists working in many different fields, from microbiology through to field zoology, but all these areas require solid data analysis and interpretation. The formative and summative tests will be hosted on the Canvas Virtual Learning Environment, but will require you to analyse and interpret data separately. The tests will take the form of short-answer / multiple choice / numeric answers.
 
 ## Lecture structure
 
-An Introductory lecture from Roy Sanderson (Module Leader) in Week 4, 'quantitative foundations' lecture in Week 5, and a final informal Question and Answer session in Week 14 to answer any outstanding queries on your understanding of course content, and help you prepare for the Summative Assessment in January.
+An Introductory lecture from Roy Sanderson first week of teaching to outline the Data Analysis component within the module as a whole and answer any initial queries from students.
 
 ## Interactive websites
 
@@ -23,11 +23,11 @@ We have created **interactive websites** for this course, for you to learn and p
 
 ## Computer classes
 
-These are scheduled for seven weeks (Week 4 to Week 11 - Week 10 is 'Enrichment Week' with no teaching) in the main Herschel Building cluster room (Fell) on the first floor.
+These are scheduled for five weeks. You have been split into **two groups** of students so **check your timetable**. Most of you (c. 115 students) will be with Roy Sanderson in Herschel Building, the remainder (c. 85 students) with Will Reid in Dame Barbour Building. **NOTE** Unfortunately majority of Herschel classes are timetabled 16:00-18:00 which is poor for students commuting, who have caring responsibilities, part-time jobs etc. Feel free to start your computer practicals in your own time if this might be a problem.
 
 ## Ten-minute videos (TMV)
 
-I have prepared a series of short (5 to 10 minutes) animated videos to explain in simple, non-technical terms some quantitative biology concepts. These have been gradually introduced to the course over the last 2 years, and students have found them helpful. They deliberately avoid complex maths, and build up key concepts sequentially to aid your understanding.
+We have prepared a series of short (5 to 10 minutes) animated videos to explain in simple, non-technical terms some quantitative biology concepts. These have been gradually introduced to the course over the last 2 years, and students have found them helpful. They deliberately avoid complex maths, and build up key concepts sequentially to aid your understanding.
 
 ## Cheatsheet
 
@@ -35,4 +35,4 @@ There is a lot of new information to absorb in this module so I've prepared a 2-
 
 ## Managing your workload
 
-This is a 10-credit module so assumes you will devote 100 hours of study time. There are 7 practicals and two lectures, so you would theoretically do 86 hours of self-directed study. In practice, you won't need 86 hours (phew!) but please do make use of the extensive online resources on Canvas, especially the Ten-Minute Videos and Interactive Websites. I have provided a page on Canvas to help you plan and manage the workload for NES2303, with a week-by-week diary throughout Semester One.
+This component is worth 50% of a 20-credit module so assumes you will devote 100 hours of study time. There are only 5 x 2 hour practicals and one lecture, so you would theoretically do 89 hours of self-directed study. In practice, you won't need 89 hours (phew!) but please do make use of the extensive online resources on Canvas, especially the Ten-Minute Videos and Interactive Websites. Plan your workload carefully week-by-week throughout Semester One, in comparison with your other modules.
