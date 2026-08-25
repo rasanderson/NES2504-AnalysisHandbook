@@ -4,8 +4,8 @@ project:
 
 
 website:
-  title: "NES2303 Module Handbook"
-  site-url: https://rasanderson.github.io/NES2303-ModuleHandbook/
+  title: "NES2405 Professional Skills: Data Analysis Handbook"
+  site-url: https://rasanderson.github.io/NES2405-ModuleHandbook/
 
 
 book:
@@ -20,13 +20,13 @@ book:
 
   cover-image: cover.png
   favicon: cover.png
-  site-url: https://ncl.instructure.com/courses/67972
-  repo-url: https://github.com/rasanderson/NES2303-ModuleHandbook
+  site-url: https://ncl.instructure.com/courses/72463
+  repo-url: https://github.com/rasanderson/NES2405-ModuleHandbook
   repo-branch: main
   repo-actions: [edit, issue]
 
-  author: "Roy Sanderson"
-  date: "08/08/2025"
+  author: "Roy Sanderson, Will Reid"
+  date: "25/08/2026"
   chapters:
     - index.qmd
     - intro.qmd
