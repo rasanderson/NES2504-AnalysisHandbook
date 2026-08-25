@@ -177,7 +177,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./structure.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">NES2303 Course structure</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Data Analysis course structure</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -253,7 +253,7 @@ window.Quarto = {
 </header>
 
 
-<p>To some extent the above heading would be a better title for this course than “Experimental Design and Statistics”. Some of you, especially those focussed on cell and molecular biology and / or working in the laboratories are likely to be conducting formal experiments. Others, especially those collecting ecological / environmental data, might be undertaking more survey-work, but this will still be formalised such that it can be analysed and inferences drawn. There are a wide range of experimental and survey designs available, but what they all have in common is the aim to <strong>separate the signal from the noise</strong>. By “signal” we are talking about questions such as ’Does this antibiotic kill MRSA bacteria?” or “Does low-fertiliser input result in more insect species?” etc. In other words, the biological question that you really want to address and answer.</p>
+<p>Some of you, especially those focussed on cell and molecular biology and / or working in the laboratories are likely to be conducting formal experiments. Others, especially those collecting marine / ecological / environmental data, might be undertaking more survey-work, but this will still be formalised such that it can be analysed and inferences drawn. There are a wide range of experimental and survey designs available, but what they all have in common is the aim to <strong>separate the signal from the noise</strong>. By “signal” we are talking about questions such as ’Does this antibiotic kill MRSA bacteria?” or “Does low-fertiliser input result in more insect species?” or what is the impact of Marine Conservation Zones on size distribution of fish etc. In other words, the biological question that you really want to address and answer.</p>
 <p>Biological data are inherently noisy: if you repeat the same experiment twice you will obtain similar, but not identical results. Some biological systems, such as ecological ones, are noisier than laboratory ones, but even in the latter sample contamination, temperature variations etc. will result in slightly different results. All good experimental / survey designs have the aim of allowing you to work out where the noise in your system is coming from. If you can reduce, or understand, the noise you are more likely to be able to look at the signal which is what you are really interested in.</p>
 <section id="cause-and-effect" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="cause-and-effect"><span class="header-section-number">2.1</span> Cause and effect</h2>
@@ -263,6 +263,7 @@ window.Quarto = {
 <li>How long should people self-isolate for if tested positive for Covid19?</li>
 <li>Is % photosynthetic efficiency affected by iron availability in the soil?</li>
 <li>Is wheat yield increased by both Azole and SDHI fungicides at different doses?</li>
+<li>What is the amount of seafloor pollution in different depths of the North Sea?</li>
 <li>What dose of insecticide kills 50% of the aphids?</li>
 </ul>
 <p>For some of these questions it is easy to see how you might design an experiment or survey to answer your question, whereas for others it is harder. What they all haven in common is an underlying assumption about <strong>cause</strong> and <strong>effect</strong>, which are often referred to as <strong>independent</strong> and <strong>dependent</strong> variables, or <strong>explanatory</strong> and <strong>response</strong> variables. So for the above examples, we can view them as:</p>
@@ -295,12 +296,16 @@ window.Quarto = {
 <td style="text-align: center;">Azole (none / low / high) and SDHI (none / low / high)</td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;">Seabed pollution (ug)</td>
+<td style="text-align: center;">North Sea seafloor depth (m)</td>
+</tr>
+<tr class="even">
 <td style="text-align: center;">Aphids (dead/alive)</td>
 <td style="text-align: center;">Insecticide dose (mg/l)</td>
 </tr>
 </tbody>
 </table>
-<p>In some of these examples your response (dependent) variable is continuous, with numbers that contain decimal points (bird diversity, wheat yield), in some the response is a whole number (3 days isolation, 7 days, 12 days etc.), and others a value between 0 and 100 (% peak photosynthesis). Likewise sometimes the explanatory (independent) variables have two categories (coppice, covid test), some multiple categories (Azole and SDHI) whilst others are continuous (Fe concentration). Three of the examples (bird, isolation and photosynthesis) only have one explanatory variable, whereas the fourth (wheat) has two explanatory variables. In the last example, the response variable is binary (dead or alive aphids).</p>
+<p>In some of these examples your response (dependent) variable is continuous, with numbers that contain decimal points (bird diversity, wheat yield, seafloor pollution), in some the response is a whole number (3 days isolation, 7 days, 12 days etc.), and others a value between 0 and 100 (% peak photosynthesis). Likewise sometimes the explanatory (independent) variables have two categories (coppice, covid test), some multiple categories (Azole and SDHI) whilst others are continuous (Fe concentration, North Sea seafloor depth). Four of the examples (bird, isolation, North Sea pollution and photosynthesis) only have one explanatory variable, whereas the fourth (wheat) has two explanatory variables. In the last example, the response variable is binary (dead or alive aphids).</p>
 <p>Irrespective of the exact type of data, all the above examples have the same pattern of:</p>
 <div class="center">
 <p><strong><span class="boxed">Response variable</span> = <span class="boxed">Explanatory variable(s)</span></strong></p>
