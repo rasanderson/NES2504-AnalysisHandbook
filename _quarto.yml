@@ -11,6 +11,7 @@ website:
 book:
   title: "NES2504 Data Analysis Handbook"
   reader-mode: true
+  downloads: pdf
   
   page-footer:
     left: |
@@ -52,16 +53,13 @@ format:
     documentclass: scrreprt
     toc: true
     number-sections: true
-    filters: [boxed-span.lua]
+    filters: [boxed-span.lua, remove_title.lua]
     include-in-header: preamble.tex
     include-before: |
       \thispagestyle{empty}
-      \begin{center}
-      \includegraphics[width=\textwidth]{cover.png}
-      \end{center}
+      \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{cover.png}
       \newpage
+    keep-tex: false
   
-
-
 editor: source
 
