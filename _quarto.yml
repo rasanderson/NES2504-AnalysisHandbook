@@ -26,7 +26,7 @@ book:
   repo-actions: [edit, issue]
 
   author: "Roy Sanderson, Will Reid"
-  date: "25/08/2026"
+  date: "2026/08/27"
   chapters:
     - index.qmd
     - intro.qmd
