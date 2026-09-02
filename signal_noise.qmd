@@ -7,7 +7,7 @@ One student last year asked me "Why do I need to know this?" during one of the p
 My advice for a good starting point is not to begin with data analysis, and instead to visualise your results: this gives you a good initial understanding of what's happening. Here are two possible scenarios, given that both Biology and Zoology students do the module, and some of you will be focussed on laboratory experiments, and others amongst you field-based studies:
 
 * **Laboratory example** You've just done a laboratory experiment into cell growth for a bioreactor. Your response is methane production and you have one explanatory variable with two 'levels', a conventional feedstock (control), and a new bioreactor feedstock;
-* **Field example** You've just done a field survey of birds. Your response is the number of birds seen in a given area, and you have one explanatory variable with two 'levels', a conventional habitat management (control), and a new wildflower management technique.
+* **Field example** You've just done a survey of ground-nesting seabirds. Your response is the number of birds seen in a given area, and you have one explanatory variable with two 'levels', a conventional coastal management (control), and a scheme to exclude dog-walkers.
 
 For both examples you can visualise the data using a "boxplot" which shows the median, interquartile range, and outliers. The boxplot is a good way to visualise the data because it shows the distribution of the data, and allows you to see if there are any outliers. In the boxplot below the horizontal (x) axis shows the explanatory variable (bioreactor feedstock or field management), and the vertical (y) axis shows the response variable (methane production or number of birds seen).
 
@@ -30,7 +30,7 @@ ggplot(data, aes(x = feedstock, y = production)) +
   theme_classic()
 ```
 
-Well that looks fairly obvious: your new bioreactor feedstock or wildflower field management treatment is having the positive effect you hoped for. The median, shown by the horizontal line in each box, is roughly 150 for the control, and roughly 170 for your new treatment. Yes, there is a bit of noise in the data, but the differences are still clear. You can think of this example as:
+Well that looks fairly obvious: your new bioreactor feedstock or coastal management treatment is having the positive effect you hoped for. The median, shown by the horizontal line in each box, is roughly 150 for the control, and roughly 170 for your new treatment. Yes, there is a bit of noise in the data, but the differences are still clear. You can think of this example as:
 
 ::: center
 [Methane or birds]{.boxed} \= [Treatment]{.bigger-boxed} + [noise]{.boxed}
@@ -54,7 +54,7 @@ data <- data.frame(
 )
 ggplot(data, aes(x = feedstock, y = production)) +
   geom_boxplot() +
-  labs(x = "Bioreactor feedstock or field management",
+  labs(x = "Bioreactor feedstock or coastal management",
        y = "Methane production or number of birds seen") +
   theme_classic()
 ```
@@ -65,6 +65,6 @@ The control is still at about 150, and the new treatment still around 170. But t
 [Methane or birds]{.boxed} \= [Treatment]{.bigger-boxed} + [noise]{.bigger-boxed}
 :::
 
-Whilst the **signal** from your treatment (feedstock type or field management) still has a big box, the random **noise** has become much worse, making it harder to understand. Thus, whilst a visual assessment of your data is useful when you have clear differences, you need more powerful methods when the data are noisy. These formal methods of data analysis are what you'll learn in this module, and they'll allow you to determine whether the differences you see in your data are statistically significant, or whether they could have occurred by chance. Most of these methods work by assessing the **signal to noise ratio** in your data, to help you decide if the differences are real. In this second example, the signal to noise ratio is much smaller, meaning that the differences you see could be due to random variation rather than a real effect of your treatment.
+Whilst the **signal** from your treatment (feedstock type or coastal management) still has a big box, the random **noise** has become much worse, making it harder to understand. Thus, whilst a visual assessment of your data is useful when you have clear differences, you need more powerful methods when the data are noisy. These formal methods of data analysis are what you'll learn in this module, and they'll allow you to determine whether the differences you see in your data are statistically significant, or whether they could have occurred by chance. Most of these methods work by assessing the **signal to noise ratio** in your data, to help you decide if the differences are real. In this second example, the signal to noise ratio is much smaller, meaning that the differences you see could be due to random variation rather than a real effect of your treatment.
 
-I've used an example here with a categorical explanatory variable (feedstock or field management), but the same principles apply to continuous explanatory variables, such as temperature or time. The key point is that you need to assess the signal to noise ratio in your data to determine whether the differences you see are real or just due to random variation.
+I've used an example here with a categorical explanatory variable (feedstock or coastal management), but the same principles apply to continuous explanatory variables, such as temperature or time. The key point is that you need to assess the signal to noise ratio in your data to determine whether the differences you see are real or just due to random variation.
